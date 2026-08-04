@@ -1,0 +1,1 @@
+const list = ['Code daily', 'Debug patiently', 'Refactor often'];
